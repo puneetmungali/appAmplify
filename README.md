@@ -1,0 +1,2 @@
+# appAmplify
+Random Number Generator
